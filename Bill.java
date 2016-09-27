@@ -54,14 +54,7 @@ public class Bill
      */
     public Bill()
     {
-        /*initialise instance variables*/
-        groupName = "";
-        numAdults = 0;
-        numChilds = 0;
-        foodChoice = 0;
-        boosterChoice = "";
-        initialDeposit = 0;
-        isBooster = false;
+        
         
         
         
